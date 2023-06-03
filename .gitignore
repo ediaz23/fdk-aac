@@ -42,3 +42,6 @@ CMakeSettings.json
 
 .vs/
 .vscode/
+.cproject
+.project
+*.prefs
